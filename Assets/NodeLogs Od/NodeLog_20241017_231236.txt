@@ -1,0 +1,8 @@
+Program started.
+From Node D to Node C Node 1 reached. Time taken for this node: 2.68 seconds. Distance traveled: 10.66 meters.
+Actual cost g(n): 10.66, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 1: 1030
+From Node C to Node B Node 2 reached. Time taken for this node: 7.05 seconds. Distance traveled: 24.40 meters.
+Actual cost g(n): 24.40, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 2: 3152
+Total runtime: 16.79 seconds.

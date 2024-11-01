@@ -1,0 +1,4 @@
+Program started.
+From Node A-star Nodes to Node A-star Nodes Node 1 reached. Time taken for this node: 0.00 seconds. Distance traveled: 0.00 meters.
+From Node A-star Nodes to Node A-star Nodes Node 2 reached. Time taken for this node: 0.00 seconds. Distance traveled: 0.00 meters.
+Total runtime: 12.48 seconds.

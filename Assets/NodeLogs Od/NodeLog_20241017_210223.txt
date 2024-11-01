@@ -1,0 +1,3 @@
+Program started.
+Expanding node 1. Heuristic (h): 12.00
+Total runtime: 0.26 seconds.

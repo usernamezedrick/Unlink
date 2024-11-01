@@ -1,0 +1,9 @@
+Program started.
+Expanding node 1. Heuristic (h): 12.00Node 1 reached. Time taken for this node: 2.84 seconds. Distance traveled: 10.52 meters.
+Expanding node 2. Heuristic (h): 15.63Node expanded 2. Actual cost (g): 0.00 meters traveled.Node 2 reached. Time taken for this node: 5.43 seconds. Distance traveled: 17.36 meters.
+Expanding node 3. Heuristic (h): 15.12Node expanded 3. Actual cost (g): 0.00 meters traveled.Node 3 reached. Time taken for this node: 4.56 seconds. Distance traveled: 15.79 meters.
+Expanding node 4. Heuristic (h): 22.66Node expanded 4. Actual cost (g): 0.00 meters traveled.Node 4 reached. Time taken for this node: 6.45 seconds. Distance traveled: 23.44 meters.
+Expanding node 5. Heuristic (h): 15.83Node expanded 5. Actual cost (g): 0.00 meters traveled.Node 5 reached. Time taken for this node: 5.14 seconds. Distance traveled: 18.20 meters.
+Expanding node 6. Heuristic (h): 15.86Node expanded 6. Actual cost (g): 0.00 meters traveled.Node 6 reached. Time taken for this node: 5.05 seconds. Distance traveled: 17.48 meters.
+Expanding node 7. Heuristic (h): 22.25Node expanded 7. Actual cost (g): 0.00 meters traveled.Node 7 reached. Time taken for this node: 6.29 seconds. Distance traveled: 22.88 meters.
+Expanding node 8. Heuristic (h): 15.63Node expanded 8. Actual cost (g): 0.00 meters traveled.Total runtime: 37.05 seconds.

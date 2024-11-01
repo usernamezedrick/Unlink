@@ -1,0 +1,6 @@
+Program started.
+Node 1 reached. Time taken for this node: 2.65 seconds. Distance traveled: 11.28 meters.
+Nodes expanded to reach node 1: 916
+CPU time for moving to node 0: 2956.03 ms
+Timeout reached after 10.00 seconds. Program ran for 12.63 seconds before issue.
+Total runtime: 12.63 seconds.

@@ -1,0 +1,11 @@
+Program started.
+Node 1 reached. Time taken for this node: 2.75 seconds. Distance traveled: 10.51 meters.
+Node 2 reached. Time taken for this node: 4.61 seconds. Distance traveled: 16.41 meters.
+Node 3 reached. Time taken for this node: 4.18 seconds. Distance traveled: 15.89 meters.
+Node 4 reached. Time taken for this node: 4.52 seconds. Distance traveled: 16.07 meters.
+Node 5 reached. Time taken for this node: 4.25 seconds. Distance traveled: 15.34 meters.
+Node 6 reached. Time taken for this node: 5.39 seconds. Distance traveled: 22.55 meters.
+Node 7 reached. Time taken for this node: 5.80 seconds. Distance traveled: 22.83 meters.
+Node 8 reached. Time taken for this node: 3.61 seconds. Distance traveled: 15.65 meters.
+Timeout reached after 10.00 seconds. Program ran for 45.10 seconds before issue.
+Total runtime: 45.10 seconds.

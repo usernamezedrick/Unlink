@@ -1,0 +1,138 @@
+Program started.
+Node 1 reached. Time taken for this node: 2.84 seconds. Distance traveled: 10.52 meters.
+Actual cost g(n): 10.52, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 1: 1090
+Node 2 reached. Time taken for this node: 4.93 seconds. Distance traveled: 17.14 meters.
+Actual cost g(n): 17.14, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 2: 2010
+Node 3 reached. Time taken for this node: 4.99 seconds. Distance traveled: 18.20 meters.
+Actual cost g(n): 18.20, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 3: 1967
+Node 4 reached. Time taken for this node: 6.54 seconds. Distance traveled: 23.86 meters.
+Actual cost g(n): 23.86, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 4: 2638
+Node 5 reached. Time taken for this node: 5.00 seconds. Distance traveled: 17.45 meters.
+Actual cost g(n): 17.45, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 5: 1943
+Node 6 reached. Time taken for this node: 4.65 seconds. Distance traveled: 16.90 meters.
+Actual cost g(n): 16.90, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 6: 1853
+Node 7 reached. Time taken for this node: 5.78 seconds. Distance traveled: 20.36 meters.
+Actual cost g(n): 20.36, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 7: 2298
+Node 8 reached. Time taken for this node: 4.92 seconds. Distance traveled: 16.60 meters.
+Actual cost g(n): 16.60, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 8: 1901
+Node 9 reached. Time taken for this node: 6.39 seconds. Distance traveled: 22.97 meters.
+Actual cost g(n): 22.97, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 9: 2598
+Node 10 reached. Time taken for this node: 4.45 seconds. Distance traveled: 16.04 meters.
+Actual cost g(n): 16.04, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 10: 1805
+Node 11 reached. Time taken for this node: 6.34 seconds. Distance traveled: 23.65 meters.
+Actual cost g(n): 23.65, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 11: 2486
+Node 12 reached. Time taken for this node: 4.77 seconds. Distance traveled: 16.34 meters.
+Actual cost g(n): 16.34, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 12: 1986
+Node 13 reached. Time taken for this node: 4.32 seconds. Distance traveled: 16.12 meters.
+Actual cost g(n): 16.12, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 13: 1776
+Node 14 reached. Time taken for this node: 5.77 seconds. Distance traveled: 22.97 meters.
+Actual cost g(n): 22.97, Heuristic cost h(n): 1.98
+Nodes expanded to reach node 14: 2176
+Node 15 reached. Time taken for this node: 6.09 seconds. Distance traveled: 25.32 meters.
+Actual cost g(n): 25.32, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 15: 2426
+Node 16 reached. Time taken for this node: 5.26 seconds. Distance traveled: 22.47 meters.
+Actual cost g(n): 22.47, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 16: 2087
+Node 17 reached. Time taken for this node: 4.87 seconds. Distance traveled: 18.98 meters.
+Actual cost g(n): 18.98, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 17: 1893
+Node 18 reached. Time taken for this node: 4.55 seconds. Distance traveled: 15.91 meters.
+Actual cost g(n): 15.91, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 18: 1743
+Node 19 reached. Time taken for this node: 5.00 seconds. Distance traveled: 17.48 meters.
+Actual cost g(n): 17.48, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 19: 2060
+Node 20 reached. Time taken for this node: 4.42 seconds. Distance traveled: 16.54 meters.
+Actual cost g(n): 16.54, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 20: 1711
+Node 21 reached. Time taken for this node: 6.41 seconds. Distance traveled: 23.29 meters.
+Actual cost g(n): 23.29, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 21: 2503
+Node 22 reached. Time taken for this node: 4.38 seconds. Distance traveled: 15.98 meters.
+Actual cost g(n): 15.98, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 22: 1722
+Node 23 reached. Time taken for this node: 4.67 seconds. Distance traveled: 15.87 meters.
+Actual cost g(n): 15.87, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 23: 1826
+Node 24 reached. Time taken for this node: 6.73 seconds. Distance traveled: 25.62 meters.
+Actual cost g(n): 25.62, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 24: 2630
+Node 25 reached. Time taken for this node: 6.92 seconds. Distance traveled: 24.18 meters.
+Actual cost g(n): 24.18, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 25: 2701
+Node 26 reached. Time taken for this node: 4.31 seconds. Distance traveled: 16.27 meters.
+Actual cost g(n): 16.27, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 26: 1708
+Node 27 reached. Time taken for this node: 6.66 seconds. Distance traveled: 23.83 meters.
+Actual cost g(n): 23.83, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 27: 2631
+Node 28 reached. Time taken for this node: 4.48 seconds. Distance traveled: 16.26 meters.
+Actual cost g(n): 16.26, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 28: 1706
+Node 29 reached. Time taken for this node: 6.14 seconds. Distance traveled: 23.43 meters.
+Actual cost g(n): 23.43, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 29: 2440
+Node 30 reached. Time taken for this node: 6.72 seconds. Distance traveled: 22.99 meters.
+Actual cost g(n): 22.99, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 30: 2711
+Node 31 reached. Time taken for this node: 4.21 seconds. Distance traveled: 15.82 meters.
+Actual cost g(n): 15.82, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 31: 1677
+Node 32 reached. Time taken for this node: 4.25 seconds. Distance traveled: 16.54 meters.
+Actual cost g(n): 16.54, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 32: 1609
+Node 33 reached. Time taken for this node: 4.55 seconds. Distance traveled: 15.91 meters.
+Actual cost g(n): 15.91, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 33: 1821
+Node 34 reached. Time taken for this node: 4.63 seconds. Distance traveled: 15.99 meters.
+Actual cost g(n): 15.99, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 34: 1831
+Node 35 reached. Time taken for this node: 4.46 seconds. Distance traveled: 16.41 meters.
+Actual cost g(n): 16.41, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 35: 1652
+Node 36 reached. Time taken for this node: 6.28 seconds. Distance traveled: 23.17 meters.
+Actual cost g(n): 23.17, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 36: 2145
+Node 37 reached. Time taken for this node: 4.99 seconds. Distance traveled: 17.37 meters.
+Actual cost g(n): 17.37, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 37: 1814
+Node 38 reached. Time taken for this node: 4.43 seconds. Distance traveled: 16.03 meters.
+Actual cost g(n): 16.03, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 38: 1810
+Node 39 reached. Time taken for this node: 5.11 seconds. Distance traveled: 17.97 meters.
+Actual cost g(n): 17.97, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 39: 1980
+Node 40 reached. Time taken for this node: 4.58 seconds. Distance traveled: 15.71 meters.
+Actual cost g(n): 15.71, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 40: 1767
+Node 41 reached. Time taken for this node: 4.62 seconds. Distance traveled: 15.83 meters.
+Actual cost g(n): 15.83, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 41: 1867
+Node 42 reached. Time taken for this node: 6.39 seconds. Distance traveled: 23.43 meters.
+Actual cost g(n): 23.43, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 42: 2538
+Node 43 reached. Time taken for this node: 5.28 seconds. Distance traveled: 18.08 meters.
+Actual cost g(n): 18.08, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 43: 2049
+Node 44 reached. Time taken for this node: 4.96 seconds. Distance traveled: 17.69 meters.
+Actual cost g(n): 17.69, Heuristic cost h(n): 1.99
+Nodes expanded to reach node 44: 1734
+Node 45 reached. Time taken for this node: 5.16 seconds. Distance traveled: 17.83 meters.
+Actual cost g(n): 17.83, Heuristic cost h(n): 2.00
+Nodes expanded to reach node 45: 1707
+Timeout reached after 10.00 seconds. Program ran for 243.21 seconds before issue.
+Total runtime: 243.21 seconds.

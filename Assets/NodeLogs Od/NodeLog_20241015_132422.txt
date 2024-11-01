@@ -1,0 +1,5 @@
+Program started.
+Node 1 reached. Time taken for this node: 3.11 seconds.
+Node 2 reached. Time taken for this node: 5.96 seconds.
+Node 3 reached. Time taken for this node: 4.45 seconds.
+Total runtime: 15.44 seconds.

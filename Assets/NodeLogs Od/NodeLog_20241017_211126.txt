@@ -1,0 +1,3 @@
+Program started.
+Node 1 reached. Time taken for this node: 3.04 seconds. Distance traveled: 11.03 meters.
+Total runtime: 4.82 seconds.

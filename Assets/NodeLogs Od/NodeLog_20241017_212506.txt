@@ -1,0 +1,8 @@
+Program started.
+Node 1 reached. Time taken for this node: 2.84 seconds. Distance traveled: 10.52 meters.
+Nodes expanded to reach node 1: 968
+Node 2 reached. Time taken for this node: 6.02 seconds. Distance traveled: 22.93 meters.
+Nodes expanded to reach node 2: 2345
+Node 3 reached. Time taken for this node: 6.11 seconds. Distance traveled: 21.99 meters.
+Nodes expanded to reach node 3: 2331
+Total runtime: 15.55 seconds.

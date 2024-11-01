@@ -1,0 +1,44 @@
+Program started.
+Node 1 reached. Time taken for this node: 2.85 seconds. Distance traveled: 10.56 meters.
+Nodes expanded to reach node 1: 981
+CPU time for moving to node 1: 3179.64 ms
+Node 2 reached. Time taken for this node: 6.61 seconds. Distance traveled: 22.89 meters.
+Nodes expanded to reach node 2: 2527
+CPU time for moving to node 2: 6610.66 ms
+Node 3 reached. Time taken for this node: 6.41 seconds. Distance traveled: 22.98 meters.
+Nodes expanded to reach node 3: 2525
+CPU time for moving to node 0: 6411.01 ms
+Node 4 reached. Time taken for this node: 4.50 seconds. Distance traveled: 15.91 meters.
+Nodes expanded to reach node 4: 1832
+CPU time for moving to node 1: 4503.50 ms
+Node 5 reached. Time taken for this node: 4.21 seconds. Distance traveled: 16.18 meters.
+Nodes expanded to reach node 5: 1570
+CPU time for moving to node 0: 4204.88 ms
+Node 6 reached. Time taken for this node: 5.08 seconds. Distance traveled: 17.70 meters.
+Nodes expanded to reach node 6: 2062
+CPU time for moving to node 3: 5084.36 ms
+Node 7 reached. Time taken for this node: 8.45 seconds. Distance traveled: 35.15 meters.
+Nodes expanded to reach node 7: 3266
+CPU time for moving to node 0: 8446.50 ms
+Node 8 reached. Time taken for this node: 5.65 seconds. Distance traveled: 26.87 meters.
+Nodes expanded to reach node 8: 2226
+CPU time for moving to node 1: 5649.09 ms
+Node 9 reached. Time taken for this node: 5.81 seconds. Distance traveled: 26.24 meters.
+Nodes expanded to reach node 9: 2362
+CPU time for moving to node 0: 5814.54 ms
+Node 10 reached. Time taken for this node: 4.71 seconds. Distance traveled: 21.25 meters.
+Nodes expanded to reach node 10: 1869
+CPU time for moving to node 2: 4714.01 ms
+Node 11 reached. Time taken for this node: 6.25 seconds. Distance traveled: 26.88 meters.
+Nodes expanded to reach node 11: 2438
+CPU time for moving to node 0: 6248.05 ms
+Node 12 reached. Time taken for this node: 3.52 seconds. Distance traveled: 15.60 meters.
+Nodes expanded to reach node 12: 1419
+CPU time for moving to node 3: 3523.89 ms
+Node 13 reached. Time taken for this node: 7.72 seconds. Distance traveled: 32.37 meters.
+Nodes expanded to reach node 13: 3063
+CPU time for moving to node 1: 7718.49 ms
+Node 14 reached. Time taken for this node: 5.45 seconds. Distance traveled: 19.56 meters.
+Nodes expanded to reach node 14: 2107
+CPU time for moving to node 3: 5444.87 ms
+Total runtime: 81.00 seconds.

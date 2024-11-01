@@ -1,0 +1,5 @@
+Program started.
+From Node D to Node A Node 1 reached. Time taken for this node: 0.00 seconds. Distance traveled: 0.00 meters.
+From Node A to Node C Node 2 reached. Time taken for this node: 0.00 seconds. Distance traveled: 0.00 meters.
+From Node C to Node B Node 3 reached. Time taken for this node: 0.00 seconds. Distance traveled: 0.00 meters.
+Total runtime: 16.21 seconds.

@@ -1,0 +1,50 @@
+Program started.
+Node 1 reached. Time taken for this node: 2.84 seconds. Distance traveled: 10.52 meters.
+Nodes expanded to reach node 1: 1140
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 2 reached. Time taken for this node: 5.19 seconds. Distance traveled: 18.20 meters.
+Nodes expanded to reach node 2: 3503
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 3 reached. Time taken for this node: 4.97 seconds. Distance traveled: 17.78 meters.
+Nodes expanded to reach node 3: 5759
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 4 reached. Time taken for this node: 4.56 seconds. Distance traveled: 16.02 meters.
+Nodes expanded to reach node 4: 7786
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 5 reached. Time taken for this node: 4.59 seconds. Distance traveled: 15.71 meters.
+Nodes expanded to reach node 5: 9839
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 6 reached. Time taken for this node: 4.59 seconds. Distance traveled: 15.68 meters.
+Nodes expanded to reach node 6: 11875
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 7 reached. Time taken for this node: 4.59 seconds. Distance traveled: 15.67 meters.
+Nodes expanded to reach node 7: 13868
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 8 reached. Time taken for this node: 4.59 seconds. Distance traveled: 15.67 meters.
+Nodes expanded to reach node 8: 15793
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 9 reached. Time taken for this node: 4.21 seconds. Distance traveled: 16.17 meters.
+Nodes expanded to reach node 9: 17592
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 10 reached. Time taken for this node: 4.60 seconds. Distance traveled: 15.75 meters.
+Nodes expanded to reach node 10: 19532
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 11 reached. Time taken for this node: 4.62 seconds. Distance traveled: 15.84 meters.
+Nodes expanded to reach node 11: 21498
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 12 reached. Time taken for this node: 4.59 seconds. Distance traveled: 15.81 meters.
+Nodes expanded to reach node 12: 23487
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 13 reached. Time taken for this node: 7.52 seconds. Distance traveled: 31.43 meters.
+Nodes expanded to reach node 13: 26876
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 14 reached. Time taken for this node: 4.74 seconds. Distance traveled: 22.98 meters.
+Nodes expanded to reach node 14: 29008
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 15 reached. Time taken for this node: 6.30 seconds. Distance traveled: 26.89 meters.
+Nodes expanded to reach node 15: 31665
+Reached target node. Mini nodes (corners) encountered: 2.
+Node 16 reached. Time taken for this node: 6.70 seconds. Distance traveled: 26.26 meters.
+Nodes expanded to reach node 16: 34539
+Reached target node. Mini nodes (corners) encountered: 2.
+Total runtime: 82.59 seconds.
