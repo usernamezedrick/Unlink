@@ -1,0 +1,20 @@
+Program started.
+Node 1 reached. Time taken for this node: 4.69 seconds. Distance traveled: 17.62 meters.
+Actual cost g(n): 17.62, Heuristic cost h(n): 3.96, Total cost f(n): 21.57
+Nodes expanded to reach node 1: 1
+Node 2 reached. Time taken for this node: 4.53 seconds. Distance traveled: 16.28 meters.
+Actual cost g(n): 16.28, Heuristic cost h(n): 3.94, Total cost f(n): 20.22
+Nodes expanded to reach node 2: 1
+Node 3 reached. Time taken for this node: 5.03 seconds. Distance traveled: 18.53 meters.
+Actual cost g(n): 18.53, Heuristic cost h(n): 3.93, Total cost f(n): 22.46
+Nodes expanded to reach node 3: 1
+Node 4 reached. Time taken for this node: 7.30 seconds. Distance traveled: 24.18 meters.
+Actual cost g(n): 24.18, Heuristic cost h(n): 3.92, Total cost f(n): 28.11
+Nodes expanded to reach node 4: 1
+Node 5 reached. Time taken for this node: 4.67 seconds. Distance traveled: 17.11 meters.
+Actual cost g(n): 17.11, Heuristic cost h(n): 3.95, Total cost f(n): 21.06
+Nodes expanded to reach node 5: 1
+Node 6 reached. Time taken for this node: 6.77 seconds. Distance traveled: 24.79 meters.
+Actual cost g(n): 24.79, Heuristic cost h(n): 3.98, Total cost f(n): 28.77
+Nodes expanded to reach node 6: 1
+Total runtime: 33.47 seconds.

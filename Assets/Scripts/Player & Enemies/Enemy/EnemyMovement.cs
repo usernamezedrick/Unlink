@@ -23,6 +23,8 @@ public class EnemyMovement : MonoBehaviour
 
     [SerializeField] private int index; // Unique index for each enemy
 
+    private bool isEnemyEnabled = true; // Flag to check if the enemy is enabled
+
     private void Awake()
     {
         if (nodes.Count > 0)
@@ -32,6 +34,40 @@ public class EnemyMovement : MonoBehaviour
         }
     }
 
+    private void OnEnable()
+    {
+        // Ensure the NavMeshAgent is enabled when the object is turned on
+        if (navMeshAgent != null)
+        {
+            navMeshAgent.enabled = true;
+            if (navMeshAgent.isOnNavMesh)
+            {
+                // Set the destination to the current node
+                navMeshAgent.SetDestination(nodes[currentNodeIndex].position);
+            }
+        }
+
+        isEnemyEnabled = true;
+    }
+
+    private void OnDisable()
+    {
+        if (isEnemyEnabled)
+        {
+            // Only call ResetPath or Stop if the agent is properly placed on the NavMesh
+            if (navMeshAgent.isActiveAndEnabled && navMeshAgent.isOnNavMesh)
+            {
+                navMeshAgent.isStopped = true;  // Stop movement
+                animator.SetBool("isWalking", false); // Stop walking animation
+
+                // Clear the path if the agent is on a NavMesh
+                navMeshAgent.ResetPath(); // Clear the path
+            }
+
+            // Mark the enemy as disabled
+            isEnemyEnabled = false;
+        }
+    }
 
     private void Update()
     {

@@ -1,0 +1,2 @@
+Program started.
+Start or goal node is not assigned.

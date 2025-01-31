@@ -45,11 +45,11 @@ public class ChallengePanelHandler : MonoBehaviour
     }
 
     // Methods for loading lessons and Daily Challenge
-    public void LoadLesson1() => StartCoroutine(LoadLessonScene("Lesson1Scene"));
+    public void LoadLesson1() => StartCoroutine(LoadLessonScene("Challenger1"));
     public void LoadLesson2() => StartCoroutine(LoadLessonScene("Lesson2Scene"));
     public void LoadLesson3() => StartCoroutine(LoadLessonScene("Lesson3Scene"));
     public void LoadLesson4() => StartCoroutine(LoadLessonScene("Lesson4Scene"));
-    public void LoadDailyChallenge() => StartCoroutine(LoadLessonScene("DailyChallengeScene")); // Load Daily Challenge
+    public void LoadDailyChallenge() => StartCoroutine(LoadLessonScene("DailyChallenge")); // Load Daily Challenge
 
     // Coroutine to load scene with loading animation for 10 seconds
     private IEnumerator LoadLessonScene(string sceneName)
@@ -62,9 +62,13 @@ public class ChallengePanelHandler : MonoBehaviour
 
         float timer = 0f;
 
+        // Loop to check loading progress
         while (timer < 10f)
         {
             timer += Time.deltaTime;
+
+            // Log loading progress for debugging
+            Debug.Log("Loading progress: " + asyncLoad.progress);
 
             // Ensure the scene is loaded and ready to activate after 10 seconds
             if (asyncLoad.progress >= 0.9f && timer >= 10f)

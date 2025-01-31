@@ -1,0 +1,5 @@
+Program started.
+Node 1 reached. Time taken for this node: 2.84 seconds. Distance traveled: 10.51 meters.
+Actual cost g(n): 10.51, Heuristic cost h(n): 3.97, Total cost f(n): 14.48
+Nodes expanded to reach node 1: 386
+Total runtime: 4.73 seconds.

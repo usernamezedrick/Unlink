@@ -1,31 +1,82 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class WeaponTransition : MonoBehaviour
 {
+    // Objects for Enemy
+    public GameObject objectToDeactivateEnemy;
+    public GameObject objectToActivateEnemy;
+
+    // Objects for Enemy1
+    public GameObject objectToDeactivateEnemy1;
+    public GameObject objectToActivateEnemy1;
+
+    // Objects for Enemy2
+    public GameObject objectToDeactivateEnemy2;
+    public GameObject objectToActivateEnemy2;
+
+    // Objects for Enemy3
+    public GameObject objectToDeactivateEnemy3;
+    public GameObject objectToActivateEnemy3;
+
+    // Objects for Enemy4
+    public GameObject objectToDeactivateEnemy4;
+    public GameObject objectToActivateEnemy4;
+
+    // Objects for Enemy5
+    public GameObject objectToDeactivateEnemy5;
+    public GameObject objectToActivateEnemy5;
+
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Enemy"))
+        // Check the tag of the collider and handle accordingly
+        switch (other.tag)
         {
-            // Start loading the scene asynchronously
-            StartCoroutine(LoadSceneAsync("Apartment_TB"));
+            case "Enemy":
+                StartCoroutine(TransitionObjects(objectToDeactivateEnemy, objectToActivateEnemy));
+                break;
+
+            case "Enemy1":
+                StartCoroutine(TransitionObjects(objectToDeactivateEnemy1, objectToActivateEnemy1));
+                break;
+
+            case "Enemy2":
+                StartCoroutine(TransitionObjects(objectToDeactivateEnemy2, objectToActivateEnemy2));
+                break;
+
+            case "Enemy3":
+                StartCoroutine(TransitionObjects(objectToDeactivateEnemy3, objectToActivateEnemy3));
+                break;
+
+            case "Enemy4":
+                StartCoroutine(TransitionObjects(objectToDeactivateEnemy4, objectToActivateEnemy4));
+                break;
+
+            case "Enemy5":
+                StartCoroutine(TransitionObjects(objectToDeactivateEnemy5, objectToActivateEnemy5));
+                break;
+
+            default:
+                Debug.LogWarning($"Unhandled tag: {other.tag}");
+                break;
         }
     }
 
-    private IEnumerator LoadSceneAsync(string sceneName)
+    private IEnumerator TransitionObjects(GameObject objectToDeactivate, GameObject objectToActivate)
     {
-        AsyncOperation operation = SceneManager.LoadSceneAsync(sceneName);
+        // Optional delay
+        yield return new WaitForSeconds(0.5f);
 
-        // Optional: You can add a loading UI or track progress here
-        while (!operation.isDone)
+        // Deactivate the specified object
+        if (objectToDeactivate != null)
         {
-            float progress = Mathf.Clamp01(operation.progress / 0.9f);
-            Debug.Log("Loading progress: " + (progress * 100) + "%");
+            objectToDeactivate.SetActive(false);
+        }
 
-            // Wait until the next frame
-            yield return null;
+        // Activate the specified object
+        if (objectToActivate != null)
+        {
+            objectToActivate.SetActive(true);
         }
     }
 }

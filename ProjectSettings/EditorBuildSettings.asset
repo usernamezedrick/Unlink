@@ -17,11 +17,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Apartment_TB.unity
     guid: 3a350242eb8777f46ac5552524f8c0b1
-  - enabled: 1
-    path: Assets/Scenes/Game_Scene.unity
+  - enabled: 0
+    path: Assets/Scenes/Battle_Scene.unity
     guid: 082d6bccfea693a47b92a4f80741a50b
   - enabled: 1
-    path: Assets/Scenes/Lesson1Scene.unity
+    path: Assets/Scenes/Challenger1.unity
     guid: 0ecec21ee56618a40aa036949aaee3e1
   - enabled: 0
     path: Assets/Scenes/Lesson2Scene.unity
@@ -32,7 +32,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Lesson4Scene.unity
     guid: c1a5498fa8b0c394c93c3fdf5a950a06
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/DailyChallengeScene.unity
     guid: a632ce05d4c2df348a071740b2ab69ee
   - enabled: 1
@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lesson3Scene 3.unity
     guid: fa690f2913588c54c9fea1a6dd91fee2
+  - enabled: 1
+    path: Assets/Scenes/DailyChallenge.unity
+    guid: c4707216e31b095499db065078d88803
   m_configObjects: {}
